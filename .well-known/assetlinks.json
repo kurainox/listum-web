@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.listum.app.listum",
+            "sha256_cert_fingerprints": [
+                "2E:42:60:62:6B:CB:3C:D3:4B:3C:7B:C2:60:8A:8C:44:FB:75:C5:AE:13:6C:E5:A2:7A:8C:28:7B:F2:9D:12:B9"
+            ]
+        }
+    }
+]
